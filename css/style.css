@@ -1,0 +1,149 @@
+body {
+    background-attachment: fixed;
+}
+
+.logo-area {
+    margin-left: 20px;
+}
+
+.nav-container {
+    margin-right: 20px;
+}
+
+.header-two {
+    background-image: url(../images/business-woman.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 630px;
+    padding: 100px;
+}
+
+.partner-area {
+    background-image: url(../images/rocky-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 200px;
+    padding: 50px;
+}
+
+.about-info {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.serve-icon {
+    margin: 50px 100px;
+    height: 250px;
+}
+
+.home-icon-1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+.actual-home-icon {
+    font-size: 36px;
+    padding-top: 25px;
+}
+
+.service-col {
+    margin: 40px;
+}
+
+.outer {
+    background-image: url(../images/startup.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+.inner {
+    height: 500px;
+    padding: 200px 100px;
+}
+
+.price-card {
+    z-index: 4;
+    border-radius: 2%;
+    margin-top: 50px;
+    height: 500px !important;
+}
+
+.price-area {
+    height: 600px;
+}
+
+.team-area {
+    margin: 50px;
+}
+
+.sub-form {
+    width: 450px !important;
+}
+
+.sub-area {
+    height: 500px;
+    padding-top: 150px;
+}
+
+.sub-area-content {
+    margin: 10px;
+}
+
+.contact-form {
+    border: #000 solid 1px !important;
+    width: 434.5px !important;
+}
+
+.contact-form:focus {
+    border-color: #1a237e !important;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.contact-form-area {
+    border: #000 solid 1px !important;
+    width: 914px;
+    margin-top: -9px;
+}
+
+.contact-form-area:focus {
+    border-color: #1a237e !important;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.form-area {
+    padding: 100px 0px;
+    height: 600px;
+}
+
+.form-area-header {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.submit-button {
+    margin-top: 20px;
+}
+
+.footer-copyright {
+    z-index: 4;
+}
+
+.menu, .main-body-content {
+    position: relative;
+}
+
+.menu {
+    z-index: 150;
+    box-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.menu, .menu-scrolled {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
